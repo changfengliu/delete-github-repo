@@ -1,7 +1,7 @@
 {
   "name": "delete-github-repo",
   "version": "1.0.0",
-  "description": "",
+  "description": "github 废弃代码库，批量删除工具",
   "main": "index.js",
   "scripts": {
     "start": "node ./index.js"
