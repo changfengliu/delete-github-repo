@@ -1,0 +1,16 @@
+{
+  "name": "delete-github-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "prompt": "^1.0.0",
+    "shelljs": "^0.8.3"
+  }
+}
