@@ -1,4 +1,4 @@
-# usage
+# Usage
 
 1. clone source code
 2. install dependencies: npm i
