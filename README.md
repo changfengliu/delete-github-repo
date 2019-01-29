@@ -1,8 +1,11 @@
-# Usage
+## Usage
 
 Step 1. clone the source code 
+
 Step 2. install dependencies: npm i
+
 Step 3. config useless repo names at **useless-repo.json**
+
 Step 4. start at root: npm run start
 
 ## Note 1
